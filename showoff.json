@@ -1,0 +1,10 @@
+{ 
+  "name": "name in showoff.json", 
+  "description" : "description in in showoff.json",
+  "author" : "Author in in showoff.json",
+  "twitter" : "@CustomInkTech",
+  "templates" : {
+    "default" : "style_guide.tpl"
+  },
+  "section" : "presentation"
+}
