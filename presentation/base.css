@@ -1,7 +1,7 @@
 body {
   font-family: museo-sans, Tahoma, sans-serif; 
   color: #54301A;
-  background: #f1e3cd;
+  background: #463225;
 }
 h1,
 h2,
@@ -39,7 +39,7 @@ a:hover {
 }
 
 h1 {
-  background: #F37321;
+  background: #428934;
   color: white;
   padding: 5px;
 }
@@ -48,7 +48,7 @@ h1 {
 h2,
 h3,
 h4 {
-  color: #F37321;
+  color: #428934;
 }
 
 ol li {
