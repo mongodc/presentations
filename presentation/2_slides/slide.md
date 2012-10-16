@@ -1,11 +1,7 @@
-!SLIDE
-# Second slide #
+!SLIDE bullets
+# Next MongoDC Meetup #
 
-    @@@ruby
-    slides.each do |slide|
-      slide.draw
-    end
-
-!SLIDE
-# Slide with an image #
-![box](../images/image.jpg)
+* Wed., November 14, 6:30 PM 
+* Meet here, at Logik
+* Will LaForest, from 10gen, will present
+* What would YOU like to present?
