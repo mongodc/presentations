@@ -1,8 +1,8 @@
 { 
-  "name": "name in showoff.json", 
-  "description" : "description in in showoff.json",
-  "author" : "Author in in showoff.json",
-  "twitter" : "@CustomInkTech",
+  "name": "MongoDC - July 18, 2012", 
+  "description" : "MongoDC Meetup",
+  "author" : "Nathen Harvey",
+  "twitter" : "@MongoDC",
   "templates" : {
     "default" : "style_guide.tpl"
   },

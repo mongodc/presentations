@@ -10,7 +10,7 @@ The `.rvmrc` file with the project assumes you have `ree` installed with rvm.  P
 
 ## Creating a new presentation
 
-The master branch contains the base template.  Branch this for your presentation and add your slides to the presentation directory.  Be sure to update `showoff.json` with the appropriate meta-data for your presentation, too.
+The master branch contains the base template.  Fork this for your presentation and add your slides to the presentation directory.
 
 ## Running the presentation
 
@@ -19,4 +19,4 @@ The master branch contains the base template.  Branch this for your presentation
 
 ## Editing the presentation
 
-Please see the [showoff](https://github.com/schacon/showoff) site for details about editing a showoff presentation.  Feel free to update this code, submit pull requests, create branches, etc.
+Please see the [showoff](https://github.com/schacon/showoff) site for details about editing a showoff presentation.  Feel free to submit pull requests, create branches, etc.
