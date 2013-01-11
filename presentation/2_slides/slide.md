@@ -1,7 +1,16 @@
+!SLIDE
+# MongoDC 2013 #
+
+* March 11
+* Newseum
+* CFP Open Now - Share your story!!
+* Promo Code "MUG" saves you 10%
+* Federal Employees - FREE
+
 !SLIDE bullets
 # Next MongoDC Meetup #
 
-* Wed., November 14, 6:30 PM 
-* Meet here, at Logik
-* Will LaForest, from 10gen, will present
+* Wed., Februrary 
+* Meet at 
+* 
 * What would YOU like to present?

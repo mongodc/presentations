@@ -7,7 +7,10 @@
 !SLIDE
 # Thank You! #
 
-## Thanks to tonight's sponsor:  Logik
+## Thanks to tonight's sponsors
+
+CustomInk
+10gen
 
 !SLIDE
 # Follow @MongoDC
@@ -18,9 +21,6 @@
 !SLIDE 
 # Upcoming Webinars
 
-* Building your first Java Application with MongoDB - Oct 18
-* How and Why Leading Investment Organisations are Moving to MongoDB - Oct 24
-* Ensuring High Availability for Real-time Analytics  - Oct 25
 
 .notes http://10gen.com/events
 
