@@ -9,8 +9,11 @@
 
 ## Thanks to tonight's sponsors
 
-CustomInk
-10gen
+![CustomInk](../images/inky-logotype-expanded.png)
+
+![NewWave](../images/newwave.jpg)
+
+![10gen](../images/logo_10gen.png)
 
 !SLIDE
 # Follow @MongoDC
@@ -21,12 +24,10 @@ CustomInk
 !SLIDE 
 # Upcoming Webinars
 
+* A Total Cost of Ownership Analysis for MongoDB - Tomorrow!
+* User Profile Management with MongoDB - 24 Jan
+* What's New in Aggregation - 31 Jan
+* Data Analytics and Business Intelligence with MongoDB and Analytica - 12 Feb
 
 .notes http://10gen.com/events
-
-!SLIDE bullets
-# Introductions and Announcements #
-
-* Do you have any announcements?
-* Are you hiring?
 
