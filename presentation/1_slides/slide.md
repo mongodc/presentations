@@ -11,7 +11,7 @@
 
 ![CustomInk](../images/inky-logotype-expanded.png)
 
-![NewWave](../images/newwave.jpg)
+![NewWave](../images/Newwave_stacked.png)
 
 ![10gen](../images/logo_10gen.png)
 
