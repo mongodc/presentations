@@ -9,11 +9,8 @@
 
 ## Thanks to tonight's sponsors
 
-![CustomInk](../images/inky-logotype-expanded.png)
+![Logik](../images/Logik.jpg)
 
-![NewWave](../images/Newwave_stacked.png)
-
-![10gen](../images/logo_10gen.png)
 
 !SLIDE
 # Follow @MongoDC
@@ -24,10 +21,9 @@
 !SLIDE 
 # Upcoming Webinars
 
-* A Total Cost of Ownership Analysis for MongoDB - Tomorrow!
-* User Profile Management with MongoDB - 24 Jan
-* What's New in Aggregation - 31 Jan
-* Data Analytics and Business Intelligence with MongoDB and Analytica - 12 Feb
+* How Banks Use MongoDB as a Tick Database - Tomorrow!
+* Understanding Storage for Performance and Data Safety - 28 Feb
+* General Technical Overview of MongoDB - 7 Mar
 
 .notes http://10gen.com/events
 
