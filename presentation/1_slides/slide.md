@@ -9,7 +9,9 @@
 
 ## Thanks to tonight's sponsors
 
-![Logik](../images/Logik.jpg)
+![CustomInk](../images/inky-logotype-expanded.png)
+
+![10gen](../images/logo_10gen.png)
 
 
 !SLIDE
@@ -21,9 +23,9 @@
 !SLIDE 
 # Upcoming Webinars
 
-* How Banks Use MongoDB as a Tick Database - Tomorrow!
-* Understanding Storage for Performance and Data Safety - 28 Feb
-* General Technical Overview of MongoDB - 7 Mar
+* MongoDB 2.4 Feature Demo and Q&A on Geo Capabilities - Tomorrow!
+* NoSQL as the New Normal - 23 April
+* MongoDB 2.4 Feature Overview and Q&A on Security - 25 April
 
 .notes http://10gen.com/events
 
