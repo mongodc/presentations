@@ -4,6 +4,8 @@
 * Welcome!  Grab a bite and a beer and introduce yourself to someone
 * Announcements and presentations will start at 7:00
 
+* Logik_Guest / RUGratStampede
+
 !SLIDE
 # Thank You! #
 
