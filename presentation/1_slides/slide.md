@@ -4,19 +4,12 @@
 * Welcome!  Grab a bite and a beer and introduce yourself to someone
 * Announcements and presentations will start at 7:00
 
-* CustomInk-Guest
-  * User:  MongoDC
-  * Password:  Password1
-
 !SLIDE
 # Thank You! #
 
 ## Thanks to tonight's sponsors
 
-![CustomInk](../images/inky-logotype-expanded.png)
-
-![10gen](../images/logo_10gen.png)
-
+![Logik](../images/Logik.jpg)
 
 !SLIDE
 # Follow @MongoDC
@@ -27,9 +20,15 @@
 !SLIDE 
 # Upcoming Webinars
 
-* MongoDB 2.4 Feature Demo and Q&A on Geo Capabilities - Tomorrow!
-* NoSQL as the New Normal - 23 April
-* MongoDB 2.4 Feature Overview and Q&A on Security - 25 April
+* Realizing the Promise of Machine to Machine (M2M) with MongoDB - Tomorrow!
+* Indexing and Query Optimization - 22 May 
+* How Financial Firms Create a Single Customer View with MongoDB - 23 May
 
 .notes http://10gen.com/events
+
+!SLIDE
+# Upcoming MongoDB Days
+
+* Pittsburgh - June 3
+* New York City - June 21
 
