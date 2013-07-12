@@ -1,6 +1,6 @@
-## CustomInk Presentations
+## MongoDC Presentations
 
-This project contains CustomInk Presentations built using with [showoff](https://github.com/schacon/showoff)
+This project contains MongoDC Presentations built using with [showoff](https://github.com/schacon/showoff)
 
 The `.rvmrc` file with the project assumes you have `ruby-1.9.3-p194` installed with rvm.
 
