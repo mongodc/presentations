@@ -22,15 +22,9 @@
 !SLIDE 
 # Upcoming Webinars
 
-* Realizing the Promise of Machine to Machine (M2M) with MongoDB - Tomorrow!
-* Indexing and Query Optimization - 22 May 
-* How Financial Firms Create a Single Customer View with MongoDB - 23 May
+* Sharding - Tomorrow!
+* Thrive With Big Data Webinar Series - Part 2 - July 23
+* Performance Tuning and Monitoring Using MMS - July 25
 
 .notes http://10gen.com/events
-
-!SLIDE
-# Upcoming MongoDB Days
-
-* Pittsburgh - June 3
-* New York City - June 21
 

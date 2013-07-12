@@ -1,11 +1,9 @@
-!SLIDE bullets
+!SLIDE 
 # Next MongoDC Meetup #
 
-* I need some help with the June and July meetings!
-  * June 19, July 17
-  * Need help organizing
+* August 21
+* Meeting at CustomInk Office in Tysons
 
-* Can you help organize?
 * What would YOU like to present?
 
 !SLIDE bullets
@@ -13,5 +11,3 @@
 
 * Do you have any announcements?
 * Are you hiring?
-
-
