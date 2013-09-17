@@ -1,8 +1,10 @@
 !SLIDE 
 # Next MongoDC Meetup #
 
-* August 21
+* October 16
 * Meeting at CustomInk Office in Tysons
+
+* TokuMX - Fractal Tree indexing for MongoDB
 
 * What would YOU like to present?
 

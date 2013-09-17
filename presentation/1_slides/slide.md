@@ -22,9 +22,9 @@
 !SLIDE 
 # Upcoming Webinars
 
-* Sharding - Tomorrow!
-* Thrive With Big Data Webinar Series - Part 2 - July 23
-* Performance Tuning and Monitoring Using MMS - July 25
+* Capacity Planning - Tomorrow!
+* How Leading Healthcare Companies use MongoDB - Sept 24
+* The Scaling Checklist for MongoDB - 100GB and beyond - Sept 25
 
-.notes http://10gen.com/events
+.notes http://mongodb.com/events
 
