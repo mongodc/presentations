@@ -1,10 +1,13 @@
 !SLIDE 
 # Next MongoDC Meetup #
 
-* August 21
-* Meeting at CustomInk Office in Tysons
+* September 18
+* Meeting at Logik in DC
+* 10gen will present on MMS
 
 * What would YOU like to present?
+
+* Tokutek on TokuMX - MongoDB Performance Engine
 
 !SLIDE bullets
 # Introductions and Announcements #
