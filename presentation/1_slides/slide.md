@@ -11,9 +11,7 @@
 
 ## Thanks to tonight's sponsors
 
-![Tokutek](../images/tokutek.jpg)
-
-![MongoDB](../images/mongodb_logo.png)
+![Logik](../images/Logik.jpg)
 
 !SLIDE
 # Follow @MongoDC

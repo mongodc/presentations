@@ -1,8 +1,14 @@
 !SLIDE 
+# MongoDC #
+
+## Thank you!
+![MongoDC](../images/mongodc_meetup.jpg)
+
+!SLIDE 
 # Next MongoDC Meetup #
 
-* November 20
-* Meeting at Logik Offices in DC
+* February 19
+* Meeting at ???
 
 * What would YOU like to present?
 
